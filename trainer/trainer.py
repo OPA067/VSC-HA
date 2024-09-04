@@ -153,9 +153,9 @@ class Trainer(BaseTrainer):
 
             vid_embeds = torch.stack([vid_embeds_per_video_id[v_id] for v_id in vid_embeds_per_video_id])   # [N, F, D]
 
-            self.model.Compression.cpu()
-            text_embeds, vid_embeds = self.model.Compression(text_embeds, vid_embeds)
-            self.model.Compression.cuda()
+            # self.model.Compression.cpu()
+            # text_embeds, vid_embeds = self.model.Compression(text_embeds, vid_embeds)
+            # self.model.Compression.cuda()
 
             # self.model.Absolute.cpu()
             # self.model.Absolute(text_embeds, vid_embeds)
