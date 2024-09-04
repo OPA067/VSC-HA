@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 # 【Paper Title】VSC-HA: Text-Video Retrieval with Video Semantic Compression and Hierarchical Alignment
 
