@@ -7,8 +7,8 @@ In this paper, we propose a method for semantic compression of video and hierarc
 
 
 ## 📣 Updates
-* **[2024/08/20]**: We have released the complete code of the model, including both training and testing code.
-* **[2024/09/01]**: We have provided a comprehensive description of the dataset, model deployment, training methods, and testing methods.
+* **[2024/09/04]**: We have released the complete code of the model, including both training and testing code.
+* **[2024/09/05]**: We have provided a comprehensive description of the dataset, model deployment, training methods, and testing methods.
 
 ## ⚡ Framework
 <div align="center">
